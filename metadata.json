@@ -1,0 +1,7 @@
+{
+  "name": "InkFlow Calligraphy",
+  "description": "A sophisticated calligraphy practice and study companion for serious students. Features AI-powered sample generation, digital practice canvas, and personalized artwork critique.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
